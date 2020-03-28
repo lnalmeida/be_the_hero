@@ -1,0 +1,2 @@
+# Be The Hero - Seja o Herói
+Projeto que ajuda a conectar pessoas dispostas a ajudar e ONGs que precisam de ajuda. Desenvolvido como atividade da Semana omnistack 11.0, evento promovido pela Rocketseat e ministrado prof. Diego Fernandes. No backend está sendo usado o Javascript, utilizando o microframework Express como base pra controle de rotas e o KnexJS Query Builder para o gerenciamento do Banco de dados. O banco de dados utilizado nesse projeto é o SQLite. Alguns conceitos interessantes, como controle de sessão e paginação foram abordados.
